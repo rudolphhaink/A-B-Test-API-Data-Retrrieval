@@ -26,8 +26,7 @@ The goal is to showcase the ability to perform data fetching, data simulation, a
 
 This project is open-source and free to use under the MIT License.
 
----
+## 👤 Author
 
-Feel free to reach out if you have questions or feedback!
-
----
+Rudolph Haink  
+[LinkedIn](https://www.linkedin.com/in/rudolph-haink-a5454564/)
