@@ -13,7 +13,7 @@ The goal is to showcase the ability to perform data fetching, data simulation, a
 ## Project Structure
 
 - `ab_test_fakestore.ipynb`: Main Jupyter Notebook with all code and explanations.
-- `data/`: Folder for storing any saved CSV files (optional).
+- `ab_test_data`: Data as a csv file.
 
 ## Key Learning Points
 
@@ -21,7 +21,6 @@ The goal is to showcase the ability to perform data fetching, data simulation, a
 - How to simulate A/B test user data
 - Basic descriptive analysis of A/B test results
 - Visualizing A/B test outcomes with confidence intervals
-- (Optional) Performing a statistical significance test (z-test)
 
 ## License
 
